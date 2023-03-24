@@ -1,0 +1,19 @@
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\bin\Debug\Store surf shop.exe.config
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\bin\Debug\Store surf shop.exe
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\bin\Debug\Store surf shop.pdb
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\obj\Debug\Store surf shop.csproj.AssemblyReference.cache
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\obj\Debug\Store surf shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\obj\Debug\Store_surf_shop.Form1.resources
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\obj\Debug\Store_surf_shop.Properties.Resources.resources
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\obj\Debug\Store surf shop.csproj.GenerateResource.cache
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\obj\Debug\Store surf shop.csproj.CoreCompileInputs.cache
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\obj\Debug\Store surf shop.exe
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\obj\Debug\Store surf shop.pdb
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\obj\Debug\Store_surf_shop.Form2.resources
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\obj\Debug\Store_surf_shop.Form3.resources
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\obj\Debug\Store_surf_shop.Form4.resources
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\obj\Debug\Store_surf_shop.Form6.resources
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\obj\Debug\Store_surf_shop.Form7.resources
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\obj\Debug\Store_surf_shop.Form8.resources
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\obj\Debug\Store_surf_shop.Form9.resources
+C:\Users\luiz.gcdias\source\repos\Store surf shop\Store surf shop\obj\Debug\Store_surf_shop.Form10.resources

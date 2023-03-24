@@ -1,0 +1,14 @@
+C:\Users\luiz.gcdias\source\repos\Cadastros\Cadastros\bin\Debug\Cadastros.exe.config
+C:\Users\luiz.gcdias\source\repos\Cadastros\Cadastros\bin\Debug\Cadastros.exe
+C:\Users\luiz.gcdias\source\repos\Cadastros\Cadastros\bin\Debug\Cadastros.pdb
+C:\Users\luiz.gcdias\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.csproj.AssemblyReference.cache
+C:\Users\luiz.gcdias\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.csproj.SuggestedBindingRedirects.cache
+C:\Users\luiz.gcdias\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.Form1.resources
+C:\Users\luiz.gcdias\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.Properties.Resources.resources
+C:\Users\luiz.gcdias\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.csproj.GenerateResource.cache
+C:\Users\luiz.gcdias\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.csproj.CoreCompileInputs.cache
+C:\Users\luiz.gcdias\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.exe
+C:\Users\luiz.gcdias\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.pdb
+C:\Users\luiz.gcdias\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.Form2.resources
+C:\Users\luiz.gcdias\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.Form3.resources
+C:\Users\luiz.gcdias\source\repos\Cadastros\Cadastros\obj\Debug\Cadastros.Form4.resources

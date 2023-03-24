@@ -1,0 +1,11 @@
+C:\Users\luiz.gcdias\source\repos\telas_backup e restore\telas_backup e restore\bin\Debug\telas_backup e restore.exe.config
+C:\Users\luiz.gcdias\source\repos\telas_backup e restore\telas_backup e restore\bin\Debug\telas_backup e restore.exe
+C:\Users\luiz.gcdias\source\repos\telas_backup e restore\telas_backup e restore\bin\Debug\telas_backup e restore.pdb
+C:\Users\luiz.gcdias\source\repos\telas_backup e restore\telas_backup e restore\obj\Debug\telas_backup e restore.csproj.AssemblyReference.cache
+C:\Users\luiz.gcdias\source\repos\telas_backup e restore\telas_backup e restore\obj\Debug\telas_backup e restore.csproj.SuggestedBindingRedirects.cache
+C:\Users\luiz.gcdias\source\repos\telas_backup e restore\telas_backup e restore\obj\Debug\telas_backup_e_restore.Form1.resources
+C:\Users\luiz.gcdias\source\repos\telas_backup e restore\telas_backup e restore\obj\Debug\telas_backup_e_restore.Properties.Resources.resources
+C:\Users\luiz.gcdias\source\repos\telas_backup e restore\telas_backup e restore\obj\Debug\telas_backup e restore.csproj.GenerateResource.cache
+C:\Users\luiz.gcdias\source\repos\telas_backup e restore\telas_backup e restore\obj\Debug\telas_backup e restore.csproj.CoreCompileInputs.cache
+C:\Users\luiz.gcdias\source\repos\telas_backup e restore\telas_backup e restore\obj\Debug\telas_backup e restore.exe
+C:\Users\luiz.gcdias\source\repos\telas_backup e restore\telas_backup e restore\obj\Debug\telas_backup e restore.pdb

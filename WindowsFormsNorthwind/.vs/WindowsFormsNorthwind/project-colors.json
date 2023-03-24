@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bf34ec92-5b80-4a1e-90f0-ced9a23eecb2": {
+      "ProjectGuid": "bf34ec92-5b80-4a1e-90f0-ced9a23eecb2",
+      "DisplayName": "WindowsFormsNorthwind",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

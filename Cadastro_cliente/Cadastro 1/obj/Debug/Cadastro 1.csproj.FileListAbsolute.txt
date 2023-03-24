@@ -1,0 +1,13 @@
+C:\Users\luiz.gcdias\source\repos\Cadastro 1\Cadastro 1\bin\Debug\Cadastro 1.exe.config
+C:\Users\luiz.gcdias\source\repos\Cadastro 1\Cadastro 1\bin\Debug\Cadastro 1.exe
+C:\Users\luiz.gcdias\source\repos\Cadastro 1\Cadastro 1\bin\Debug\Cadastro 1.pdb
+C:\Users\luiz.gcdias\source\repos\Cadastro 1\Cadastro 1\obj\Debug\Cadastro 1.csproj.AssemblyReference.cache
+C:\Users\luiz.gcdias\source\repos\Cadastro 1\Cadastro 1\obj\Debug\Cadastro 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\luiz.gcdias\source\repos\Cadastro 1\Cadastro 1\obj\Debug\Cadastro_1.Form1.resources
+C:\Users\luiz.gcdias\source\repos\Cadastro 1\Cadastro 1\obj\Debug\Cadastro_1.Form2.resources
+C:\Users\luiz.gcdias\source\repos\Cadastro 1\Cadastro 1\obj\Debug\Cadastro_1.Form3.resources
+C:\Users\luiz.gcdias\source\repos\Cadastro 1\Cadastro 1\obj\Debug\Cadastro_1.Properties.Resources.resources
+C:\Users\luiz.gcdias\source\repos\Cadastro 1\Cadastro 1\obj\Debug\Cadastro 1.csproj.GenerateResource.cache
+C:\Users\luiz.gcdias\source\repos\Cadastro 1\Cadastro 1\obj\Debug\Cadastro 1.csproj.CoreCompileInputs.cache
+C:\Users\luiz.gcdias\source\repos\Cadastro 1\Cadastro 1\obj\Debug\Cadastro 1.exe
+C:\Users\luiz.gcdias\source\repos\Cadastro 1\Cadastro 1\obj\Debug\Cadastro 1.pdb

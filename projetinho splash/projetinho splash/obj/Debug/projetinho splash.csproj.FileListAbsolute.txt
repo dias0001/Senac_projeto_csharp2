@@ -1,0 +1,14 @@
+C:\Users\luiz.gcdias\source\repos\projetinho splash\projetinho splash\bin\Debug\projetinho splash.exe.config
+C:\Users\luiz.gcdias\source\repos\projetinho splash\projetinho splash\bin\Debug\projetinho splash.exe
+C:\Users\luiz.gcdias\source\repos\projetinho splash\projetinho splash\bin\Debug\projetinho splash.pdb
+C:\Users\luiz.gcdias\source\repos\projetinho splash\projetinho splash\obj\Debug\projetinho splash.csproj.AssemblyReference.cache
+C:\Users\luiz.gcdias\source\repos\projetinho splash\projetinho splash\obj\Debug\projetinho splash.csproj.SuggestedBindingRedirects.cache
+C:\Users\luiz.gcdias\source\repos\projetinho splash\projetinho splash\obj\Debug\projetinho_splash.Form1.resources
+C:\Users\luiz.gcdias\source\repos\projetinho splash\projetinho splash\obj\Debug\projetinho_splash.frmLogin.resources
+C:\Users\luiz.gcdias\source\repos\projetinho splash\projetinho splash\obj\Debug\projetinho_splash.Properties.Resources.resources
+C:\Users\luiz.gcdias\source\repos\projetinho splash\projetinho splash\obj\Debug\projetinho splash.csproj.GenerateResource.cache
+C:\Users\luiz.gcdias\source\repos\projetinho splash\projetinho splash\obj\Debug\projetinho splash.csproj.CoreCompileInputs.cache
+C:\Users\luiz.gcdias\source\repos\projetinho splash\projetinho splash\obj\Debug\projetinho splash.exe
+C:\Users\luiz.gcdias\source\repos\projetinho splash\projetinho splash\obj\Debug\projetinho splash.pdb
+C:\Users\luiz.gcdias\source\repos\projetinho splash\projetinho splash\obj\Debug\projetinho_splash.frmCadPessoa.resources
+C:\Users\luiz.gcdias\source\repos\projetinho splash\projetinho splash\obj\Debug\projetinho_splash.frmMenu.resources

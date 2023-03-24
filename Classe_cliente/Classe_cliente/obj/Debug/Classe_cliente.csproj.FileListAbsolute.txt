@@ -1,0 +1,11 @@
+C:\Users\luiz.gcdias\source\repos\Classe_cliente\Classe_cliente\obj\Debug\Classe_cliente.csproj.AssemblyReference.cache
+C:\Users\luiz.gcdias\source\repos\Classe_cliente\Classe_cliente\obj\Debug\Classe_cliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\luiz.gcdias\source\repos\Classe_cliente\Classe_cliente\obj\Debug\Classe_cliente.Form1.resources
+C:\Users\luiz.gcdias\source\repos\Classe_cliente\Classe_cliente\obj\Debug\Classe_cliente.Properties.Resources.resources
+C:\Users\luiz.gcdias\source\repos\Classe_cliente\Classe_cliente\obj\Debug\Classe_cliente.csproj.GenerateResource.cache
+C:\Users\luiz.gcdias\source\repos\Classe_cliente\Classe_cliente\obj\Debug\Classe_cliente.csproj.CoreCompileInputs.cache
+C:\Users\luiz.gcdias\source\repos\Classe_cliente\Classe_cliente\bin\Debug\Classe_cliente.exe.config
+C:\Users\luiz.gcdias\source\repos\Classe_cliente\Classe_cliente\bin\Debug\Classe_cliente.exe
+C:\Users\luiz.gcdias\source\repos\Classe_cliente\Classe_cliente\bin\Debug\Classe_cliente.pdb
+C:\Users\luiz.gcdias\source\repos\Classe_cliente\Classe_cliente\obj\Debug\Classe_cliente.exe
+C:\Users\luiz.gcdias\source\repos\Classe_cliente\Classe_cliente\obj\Debug\Classe_cliente.pdb
