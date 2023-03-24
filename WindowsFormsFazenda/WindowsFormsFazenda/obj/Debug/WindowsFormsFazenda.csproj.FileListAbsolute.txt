@@ -1,0 +1,12 @@
+C:\Users\luiz.gcdias\source\repos\WindowsFormsFazenda\WindowsFormsFazenda\bin\Debug\WindowsFormsFazenda.exe.config
+C:\Users\luiz.gcdias\source\repos\WindowsFormsFazenda\WindowsFormsFazenda\bin\Debug\WindowsFormsFazenda.exe
+C:\Users\luiz.gcdias\source\repos\WindowsFormsFazenda\WindowsFormsFazenda\bin\Debug\WindowsFormsFazenda.pdb
+C:\Users\luiz.gcdias\source\repos\WindowsFormsFazenda\WindowsFormsFazenda\obj\Debug\WindowsFormsFazenda.csproj.AssemblyReference.cache
+C:\Users\luiz.gcdias\source\repos\WindowsFormsFazenda\WindowsFormsFazenda\obj\Debug\WindowsFormsFazenda.csproj.SuggestedBindingRedirects.cache
+C:\Users\luiz.gcdias\source\repos\WindowsFormsFazenda\WindowsFormsFazenda\obj\Debug\WindowsFormsFazenda.Form1.resources
+C:\Users\luiz.gcdias\source\repos\WindowsFormsFazenda\WindowsFormsFazenda\obj\Debug\WindowsFormsFazenda.Form2.resources
+C:\Users\luiz.gcdias\source\repos\WindowsFormsFazenda\WindowsFormsFazenda\obj\Debug\WindowsFormsFazenda.Properties.Resources.resources
+C:\Users\luiz.gcdias\source\repos\WindowsFormsFazenda\WindowsFormsFazenda\obj\Debug\WindowsFormsFazenda.csproj.GenerateResource.cache
+C:\Users\luiz.gcdias\source\repos\WindowsFormsFazenda\WindowsFormsFazenda\obj\Debug\WindowsFormsFazenda.csproj.CoreCompileInputs.cache
+C:\Users\luiz.gcdias\source\repos\WindowsFormsFazenda\WindowsFormsFazenda\obj\Debug\WindowsFormsFazenda.exe
+C:\Users\luiz.gcdias\source\repos\WindowsFormsFazenda\WindowsFormsFazenda\obj\Debug\WindowsFormsFazenda.pdb
